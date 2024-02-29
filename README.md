@@ -1,4 +1,4 @@
-<h1>Analyze a vulnerable system for a small business</h1>
+<h1>Analyze a vulnerable system</h1>
 
 ### [YouTube Demonstration (work in progress)](https://youtu.be/URL)
 
