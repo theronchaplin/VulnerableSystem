@@ -21,32 +21,31 @@ A vulnerability assessment of the situation can help you communicate the potenti
 
 <p align="center">
 1. Review information about the vulnerable server <br/>
-<img src="https://imgur.com/izR4vJX.png" height="80%" width="80%"/>
+<img src="https://imgur.com/HshqIPU.png" height="80%" width="80%"/>
 <br />
 <br />
 2. Begin the Risk assessment by explaining the purpose of the information system <br/>
-<img src="https://imgur.com/jNuTAd3.png" height="80%" width="80%"/>
+<img src="https://imgur.com/pudehqi.png" height="80%" width="80%"/>
 <br />
 <br />
 3. Identify potential threat sources <br/>
-<img src="https://imgur.com/l7lVm8B.png" height="80%" width="80%"/>
+<img src="https://imgur.com/dXwzUYU.png" height="80%" width="80%"/>
 <br />
 <br />
 4. Identify potential threat events <br/>
-<img src="https://imgur.com/fk72E1u.png" height="80%" width="80%"/>
+<img src="https://imgur.com/0rrZXCe.png" height="80%" width="80%"/>
 <br />
 <br />
 5. Calculate the risk of potential threats <br/>
-<img src="https://imgur.com/UUiaxwW.png" height="80%" width="80%"/>
+<img src="https://imgur.com/mDNY2v2.png" height="80%" width="80%"/>
 <br />
 <br />
 6. Begin proposing security recommendations by explaining your approach <br/>
-<img src="https://imgur.com/1ihCVfJ.png" height="80%" width="80%"/>
+<img src="https://imgur.com/1taXf6b.png" height="80%" width="80%"/>
 <br />
 <br />
 7. Propose a remediation strategy  <br/>
-<img src="https://imgur.com/EQVitW3.png" height="80%" width="80%"/>
-<img src="https://imgur.com/7ks5e9W.png" height="80%" width="80%"/>
+<img src="https://imgur.com/00CmVU5.png" height="80%" width="80%"/>
 <br />
 <br />
 
