@@ -1,7 +1,5 @@
 <h1>Analyze a vulnerable system</h1>
 
-### [YouTube Demonstration (work in progress)](https://youtu.be/URL)
-
 
 <h2>Description</h2>
 
